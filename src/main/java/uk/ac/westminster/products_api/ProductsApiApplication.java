@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * web server on http://localhost:8080
  */
 
-@SpringBootApplication
+@SpringBootApplication //3 in one annotation serach google
 public class ProductsApiApplication {
 
 	public static void main(String[] args) {
